@@ -4,6 +4,13 @@
 
 This project is a premium, dark-themed web experience built to showcase advanced UI interactions. The signature feature is a custom-built canvas mask that creates a soft, glowing spotlight trailing the user's cursor, dynamically revealing a hidden, terrifying secondary layer beneath the dark, foggy graveyard exterior.
 
+## 🎥 Interaction Demo
+
+<div align="center">
+  <!-- Place your recorded demo GIF or video here -->
+  <img src="./public/demo.gif" alt="Hover Interaction Demo" width="800"/>
+</div>
+
 ## ✨ Features
 
 - **Interactive Cursor Reveal**: A smooth, interpolation-based `requestAnimationFrame` loop that paints a radial gradient mask to reveal hidden background elements.
